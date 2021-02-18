@@ -10,7 +10,24 @@ header h1{
     color: white;   
 }
 
-header a {
+a {
     font-size: 16px;
     color: aquamarine;
+}
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    color: gray;
+    font-family: verdana;
+    font-size: 21px;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
 }
