@@ -19,7 +19,7 @@ h2 {
     font-family: Verdana;
     font-weight: 300;
     font-size: 42px;
-}
+    color: white;
 
 p {
     color: gray;
@@ -32,10 +32,3 @@ p {
     color: gray;
 }
 
-main image {
-    
-}
-
-footer image {
-    
-}
